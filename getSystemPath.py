@@ -3,3 +3,5 @@
 
 import sys
 print(sys.executable)
+
+#/opt/homebrew/opt/python@3.11/bin/python3.11
